@@ -62,4 +62,4 @@ This is a personal planning tool, not an official declaration service or tax adv
 
 ## Author
 
-[Mohamed Laraiche](https://github.com/molaraiche)
+[Mohamed Laraiche](https://molaraiche.com)
